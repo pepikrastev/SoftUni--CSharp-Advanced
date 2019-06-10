@@ -1,2 +1,2 @@
 # SoftUni--CSharp-Advanced
-C# Advanced 2019
+C# Advanced - January - 2019
